@@ -1,7 +1,17 @@
 # HTML
 
-<html><head>
-  <title> My First Webpage</title>
-</head><body><hi> Hello World! </hi>
-<p> This is My First HTML. </p><img src="2014 Harris.jpg">
-</body></html>
+<html>
+
+<head>
+<title> My First Webpage </title>
+</head>
+
+<body style="background-color:silver">
+<h1> Hello World!</h1>
+<p> This is my first html</p>
+<marquee>This is so cool</marquee>
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQslCJSpXzx0ySIrIv2tS4Inke-Sk45sX7z8dO7jxEMDpV0aQf9Tg></img>
+
+</body>
+
+</html>
